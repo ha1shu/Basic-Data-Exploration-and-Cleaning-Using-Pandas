@@ -4,12 +4,15 @@ A beginner-friendly data analysis project built as part of an internship assignm
 
 ---
 
-## 📁 Project Structure
-├── Combined_dataset_cleaned.ipynb   # Main Jupyter Notebook
-├── Data 
-      ├──Combined_dataset.csv           # Original raw dataset
-      ├── shopping_cleaned.csv           # Cleaned & processed dataset
-└── README.md                      # Project documentation
+
+Myntra-Shopping-Data-Cleaning/
+│
+├── Combined_dataset_cleaned.ipynb      # Main Jupyter Notebook
+├── README.md                           # Project documentation
+│
+├── Data/
+│   ├── Combined_dataset.csv            # Original raw dataset
+│   └── shopping_cleaned.csv            # Cleaned datasetn
 
 ---
 
@@ -33,7 +36,7 @@ Learn Python basics and perform data exploration and cleaning using the Pandas l
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Field | Detail |
 |-------|--------|
