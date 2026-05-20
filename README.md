@@ -2,19 +2,17 @@
 
 A beginner-friendly data analysis project built as part of an internship assignment. This project demonstrates core Python and Pandas skills using a real-world Myntra e-commerce dataset sourced from Kaggle.
 
----
-
-
+```text
 Myntra-Shopping-Data-Cleaning/
 │
 ├── Combined_dataset_cleaned.ipynb      # Main Jupyter Notebook
 ├── README.md                           # Project documentation
 │
 ├── Data/
-│   ├── Combined_dataset.csv            # Original raw dataset
-│   └── shopping_cleaned.csv            # Cleaned datasetn
+  ├── Combined_dataset.csv            # Original raw dataset
+  └── shopping_cleaned.csv            # Cleaned dataset
 
----
+```
 
 ##  Objective
 
