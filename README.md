@@ -1,4 +1,4 @@
-# 🛍️ Myntra Shopping Dataset — Data Exploration & Cleaning
+# 🛍️ Shopping-Data-Exploration-Cleaning_Assignment_1
 
 A beginner-friendly data analysis project built as part of an internship assignment. This project demonstrates core Python and Pandas skills using a real-world Myntra e-commerce dataset sourced from Kaggle.
 
